@@ -4,6 +4,7 @@ This repo is a code-along with the third project in the [React Nanodegree progra
 
 ## What platform have already been tested?
 * Android
+* iOS
 
 ## Project Setup
 
